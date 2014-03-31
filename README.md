@@ -11,9 +11,19 @@ A weekly seminar where we discuss and explore Cryptocurrencies and Decentralized
 There will be weekly readings and presentations along with an end of quarter essay, mathematical review, or coding project. Weekly seminars will be discussion based with thought leaders serving as guest speakers. The course will be limited to 30 students preferably with backgrounds in at least one of Economics, Philosophy, Computer Science, or Mathematics. Preference will be given to upperclassmen and graduate students. 
 
 #####Student Expectations:
-1.  Weekly attendence and particpation in weekly discussions is required. (20%)
-2.  Students will pair into teams of 2-4 and present one thought piece, academic argument, or relevant startup. (20%)
-3.  Students will pari into teams of 2-4 and give one of: an argumentative essay, amathematical analysis or review, or a programming executable. (60%)
+1.  Weekly attendence and participation in weekly discussions is required. (20%)
+2.  **External Review**: Students will pair into teams of 2-4 and present one thought piece, academic argument, or relevant startup. (20%)
+3.  **End of Quarter Project**: Students will pair into teams of 2-4 and give one of: an argumentative essay, a mathematical analysis or review, or a programming executable. (60%)
+
+######Upcoming Due Dates:
+*  April 10
+    *  Team Roster
+    *  Team Name
+    *  Proposal for External Review
+*  April 24
+    *  Proposal for End of Quarter Project
+*  June 2
+    *  End of Quarter Presentations
 
 
 
