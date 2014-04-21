@@ -20,7 +20,7 @@ There will be weekly readings and presentations along with an end of quarter ess
     *  Team Roster
     *  Team Name
     *  Proposal for External Review
-*  April 24
+*  April 25
     *  Proposal for End of Quarter Project
 *  June 2
     *  End of Quarter Presentations
